@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Gopi
-- 👀 I’m interested in Data Analytics & Data science
-- 🌱 I’m currently learning python, SQL, Tableu
-- 💞️ I’m looking to collaborate with  Data analysts and Data Scientists to enhance and apply my skills
+- 👀 I’m SQL server DBA and Developer
+- 💞️ I’m looking to collaborate with  DBAs and Developers to enhance and apply my skills
 - 📫 How to reach me - Drop a mail to gopi.mullainath@outlook.com
 
 <!---
